@@ -1,0 +1,7 @@
+id,stud_name,gender,img_url,course_name,classroom,teacher,ects,grade
+0,George,male,img1,Defense Against the Dark Arts,Room4,Remus,60,-3
+0,George,male,img1,Charms,Room5,Filius Flitwick,30,7
+1,Neville,male,img2,Defense Against the Dark Arts,Room4,Remus,60,-3
+1,Neville,male,img2,Charms,Room5,Filius Flitwick,30,7
+2,Luna,male,img1,Transfiguration,Room1,Minerva McGonagall,30,None
+2,Luna,male,img1,Charms,Room5,Filius Flitwick,30,7
